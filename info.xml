@@ -9,12 +9,12 @@
     <email>mjw@mjwconsult.co.uk</email>
   </maintainer>
   <urls>
-    <url desc="Main Extension Page">https://github.com/mattwire/civicrm-haystacktheme</url>
-    <url desc="Support">https://github.com/mattwire/civicrm-haystacktheme</url>
+    <url desc="Main Extension Page">https://lab.civicrm.org/extensions/haystacktheme</url>
+    <url desc="Support">https://www.mjwconsult.co.uk</url>
     <url desc="Licensing">http://www.gnu.org/licenses/agpl-3.0.html</url>
   </urls>
-  <releaseDate>2019-11-26</releaseDate>
-  <version>0.13</version>
+  <releaseDate>2019-12-03</releaseDate>
+  <version>0.14</version>
   <develStage>beta</develStage>
   <compatibility>
     <ver>5.19</ver>

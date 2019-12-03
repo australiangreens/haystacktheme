@@ -14,8 +14,8 @@ Go to Administer->Customize Data and Screens->Haystack theme settings to configu
 
 ## Requirements
 
-* PHP v7.0+
-* CiviCRM 5.13+
+* PHP v7.1+
+* CiviCRM 5.19+
 
 ## Licensing
 The extension is licensed under [AGPL-3.0](LICENSE.txt).
