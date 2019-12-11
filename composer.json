@@ -4,6 +4,6 @@
   "type": "drupal-module",
   "require": {
     "composer/installers":"*",
-    "drupal/drupal/":"7.*"
+    "drupal/drupal":"7.*"
   }
 }
